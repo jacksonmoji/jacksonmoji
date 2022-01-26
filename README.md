@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - 🌱 Learning docker in my spare time. I like contanerizing my projects.
 
 #### Tech Stack
-- Python
-- Django
-- Javascript
-- ReactJs
+- Python (Django)
+- PHP (laravel)
+- Javascript (ReactJs)
+- AWS (EC2|ECR|RDS)
 - CSS
 - hTML
 - XML
-- AWS (EC2|ECR|RDS)
+
 
 
 
