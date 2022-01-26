@@ -8,10 +8,6 @@
 Here are some ideas to get you started:
 -->
 
-### Current
-- 🔭 Working on my MSc project and other fun projects in my repos.
-- 🌱 Learning docker in my spare time. I like contanerizing my projects.
-
 #### Tech Stack
 - Python (Django)
 - PHP (laravel)
@@ -20,6 +16,10 @@ Here are some ideas to get you started:
 - CSS
 - hTML
 - XML
+- 
+#### Current
+- 🔭 Working on my MSc project and other fun projects in my repos.
+- 🌱 Learning docker in my spare time. I like contanerizing my projects.
 
 <p> <i>Thank you for pass by. </i> </p>
 
