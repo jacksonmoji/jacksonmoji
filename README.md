@@ -10,7 +10,7 @@ I am a versitile software engineer looking for great opportunities in the indust
 Here are some ideas to get you started:
 -->
 
-## Current
+### Current
 - 🔭 Working on my MSc project and other fun projects in my repos.
 - 🌱 Learning docker in my spare time. I like contanerizing my projects.
 
