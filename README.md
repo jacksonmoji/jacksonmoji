@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on my MSc project and other fun projects in my repos
-- 🌱 I’m currently learning docker on my spare time
+- 🌱 I’m currently learning docker in my spare time
 
 
