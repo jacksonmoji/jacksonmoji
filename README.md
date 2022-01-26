@@ -9,13 +9,11 @@ Here are some ideas to get you started:
 -->
 
 #### Tech Stack 🧰
-- Python (Django)
-- PHP (laravel)
-- JavaScript (ReactJs)
-- AWS (EC2|ECR|RDS)
-- CSS
-- HTML
-- XML
+  * Languages: Python, JavaScript, PHP
+  * Frameworks/Libraries:  Django, Laravel, ReactJs, NodeJs
+  * DBs: MongoDB, PostgreSQL, MySQL
+  * Web Server: Apache, Ngnix
+  * Containerization: Docker
 
 #### Current  🚀
 - 🔭 Working on my MSc project and other fun projects in my repos.
