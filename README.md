@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 #### Tech Stack 🧰
 - Python (Django)
 - PHP (laravel)
-- Javascript (ReactJs)
+- JavaScript (ReactJs)
 - AWS (EC2|ECR|RDS)
 - CSS
 - HTML
