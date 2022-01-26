@@ -8,22 +8,22 @@
 Here are some ideas to get you started:
 -->
 
-#### Tech Stack 
+#### Tech Stack 🧰
 - Python (Django)
 - PHP (laravel)
 - Javascript (ReactJs)
 - AWS (EC2|ECR|RDS)
 - CSS
-- hTML
+- HTML
 - XML
 
 #### Current  🚀
 - 🔭 Working on my MSc project and other fun projects in my repos.
 - 🌱 Learning docker in my spare time. I like contanerizing my projects.
 
-<b><i>My contact information is on left menu 👈 </i></b>
+<b><i>🔗 My contact information is on left menu</i></b>
 
-<p> <i>Thank you for pass by. </i> </p>
+<p> <i>Thank you for passing by. Dont forget to check out my repos 🙂  </i> </p>
 
 
 
