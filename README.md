@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Thank you for pass by. 
-
 <p>I am a versitile software engineer looking for great opportunities in the industry to work in projects as mainly back-end engineer. I work on small projects from time to time in my repos to build my front-end dev skills. End goal to become a well rounded full-stack engineer as i like design and engineering solutions to intersting problems.</p>
 
 <!--
@@ -22,6 +20,8 @@ Here are some ideas to get you started:
 - CSS
 - hTML
 - XML
+
+<p> <i>Thank you for pass by. </i> </p>
 
 
 
