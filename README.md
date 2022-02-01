@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <b><i>🔗 My contact information is on left menu</i></b>
 
-<p> <i>Thank you for passing by. Dont forget to check out my repos 🙂  </i> </p>
+<p> <i>Thank you for passing by. Dont forget to check out my repos 🙂 </i> </p>
 
 
 
