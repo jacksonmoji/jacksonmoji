@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-<p>I am a versitile software engineer looking for great opportunities in the industry to work in projects as a back-end engineer. I have been building hands-on experience spanning 2+ years developing software for various companies offering services to clients in Insurance and Commerce. Always eager to learn new Technologies and find interesting ways of solving problems. 
+<p>I am a versatile software engineer looking for great opportunities in the industry to work in projects as a back-end engineer. I have been building hands-on experience spanning 2+ years developing software for various companies offering services to clients in Insurance and Commerce. Always eager to learn new Technologies and find interesting ways of solving problems. 
         
 <!--
 **jacksonmoji/jacksonmoji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
