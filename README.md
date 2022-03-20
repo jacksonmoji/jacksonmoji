@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   * Containerization: Docker
 
 #### Current  🚀
-- 🔭 Working on my MSc project and other fun projects in my repos.
+<!-- - 🔭 Working on my MSc project and other fun projects in my repos. -->
 - 🌱 Learning docker in my spare time. I like contanerizing my projects.
 
 <b><i>🔗 My contact information is on left menu</i></b>
