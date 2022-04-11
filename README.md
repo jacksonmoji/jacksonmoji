@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 #### Tech Stack 🧰
   * Languages: Python, JavaScript, PHP
-  * Frameworks/Libraries:  Django, Laravel, ReactJs, MterialUI
+  * Frameworks/Libraries:  Django, Laravel, ReactJs, MaterialUI
   * DBs: MongoDB, PostgreSQL, MySQL
   * Web Server: Apache, Ngnix
   * Containerization: Docker
